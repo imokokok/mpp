@@ -10985,6 +10985,7 @@ export const services: ServiceDef[] = [
     serviceUrl: "https://www.oracleinsight.xyz",
     description:
       "Oracle-manipulation-aware pre-trade safety checks for DeFi agents. A single trade gets a PASS/WARN/BLOCK verdict backed by multi-provider oracle consensus and verifiable EIP-712 attestations; settlement only happens after the check succeeds.",
+    icon: "https://www.oracleinsight.xyz/logos/insight-glacier-cut.svg",
     categories: ["ai", "data"],
     integration: "first-party",
     tags: [
